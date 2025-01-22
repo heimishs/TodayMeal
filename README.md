@@ -89,6 +89,16 @@ Common.css로 자주 사용하는 스타일을 공용화하여 재사용했으�
 Notion과 slack을 통해 팀원과 소통하였으며, Git flow를 통해 main 브런치와 develop 브런치를 구분하여 버전 관리에 용이하게 하였습니다.
 또한, Pull Request를 통해 push 전 팀원이 코드를 확인하게 하여 충돌의 가능성을 낮추었습니다.
 
+## 학습 포인트
+- RESTful API 설계와 구현
+- Redux를 활용한 상태 관리
+- 반응형 디자인 적용
+
+## 향후 개선 사항
+- PWA 기능 추가
+- TypeScript로 코드 리팩토링
+- GraphQL을 사용한 API 개선
+
 
 ## 설치 방법
 
