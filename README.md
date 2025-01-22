@@ -139,7 +139,7 @@ http://localhost:8000
 
 ## Contact
 개발자: @kim-chulsoon, @BugSquasher2400, @juyun77, @hjink11  
-이메일: nink90@gmail.com
+이메일: heimishs@naver.com
 
 
 
