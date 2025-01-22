@@ -6,6 +6,9 @@ YOUTUBE api와 CKEditer를 활용한
 
 ![image](https://github.com/user-attachments/assets/9cc6794a-987d-4e16-8e40-6e2326c8a182)
 
+## 데모
+[Live Demo](https://reves.kr)
+
 ## 프로젝트 개요
 
 TodayMeal은 유튜브 동영상의 레시피를 간단하게 기록하고 저장할 수 있는 웹 서비스입니다.
